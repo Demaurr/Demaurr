@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there!
+🚀 Python Developer | 🧠 Data Analyst | 💻 Django Enthusiast  
 
-<!--
-**Demaurr/Demaurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building scalable backend systems, analyzing data, and turning ideas into impactful software solutions.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+**Languages:** Python, SQL, C  
+**Frameworks:** Django, DRF, Tkinter  
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Other Tools:** Git, VS Code, Jupyter, Chart.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- 🎵 [Media Analyser](https://github.com/Demaurr/random-media-player) — Smart media player with auto-generated stats dashboard and much more.
+- 🏙 [Reportit](https://github.com/Demaurr/masla-bolo-backend) — Civic issue reporting platform with admin and official roles.
+- 🎬 [IMDb Ratings Analysis](https://github.com/Demaurr/IMDb-Ratings-Analysis) — Django + Pandas analysis with Chart.js visualizations.
+- 📁 [Filer](https://github.com/Demaurr/Filer) — Fast file collection and stats library using multiprocessing.
+
+<div align="center">
+
+![Demaurr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demaurr&show_icons=true&theme=tokyonight)
+
+</div>
