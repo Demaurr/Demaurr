@@ -1,14 +1,14 @@
 # 👋 Hi there!
-🚀 Python Developer | 🧠 Data Analyst | 💻 Django Enthusiast  
+🚀 Python Developer | 🧠 Data Analyst and Engineer | 💻 Django Enthusiast  
 
 I'm passionate about building scalable backend systems, analyzing data, and turning ideas into impactful software solutions.  
 
 ## 🔧 Tech Stack  
 **Languages:** Python, SQL, C  
-**Frameworks:** Django, DRF, Tkinter  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+**Frameworks:** Django, DRF, Tkinter, FastAPI  
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, SSIS, SSMS 
 **Databases:** PostgreSQL, MySQL, SQLite  
-**Other Tools:** Git, VS Code, Jupyter, Chart.js  
+**Other Tools:** Git, VS Code, Jupyter, Chart.js, LangChain, LangGraph
 
 ## 🌟 Featured Projects
 - 🎵 [Media Analyser](https://github.com/Demaurr/random-media-player) — Smart media player with auto-generated stats dashboard and much more.
