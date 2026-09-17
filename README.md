@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Maham!
+# 👋 Hi there, I'm Osama Khan!
 
 ### 🚀 AI Engineer | Python Developer | Backend & Data
 
